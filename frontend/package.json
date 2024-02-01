@@ -20,7 +20,7 @@
         "ajv": "^8.10.0",
         "ajv-formats": "^2.1.1",
         "angular-svg-icon": "^12.0.0",
-        "angularx-qrcode": "^12.0.3",
+        "angularx-qrcode": "^17.0.0",
         "codemirror": "^5.65.0",
         "cronstrue": "^2.4.0",
         "crypto-browserify": "^3.12.0",
